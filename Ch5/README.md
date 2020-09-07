@@ -1,11 +1,6 @@
-Chapter 5, Interlude: Process API.
+# Chapter 5
+## Interlude: Process API
 
-In this homework, you are to gain some familiarity with the process
-management APIs about which you just read. Don’t worry – it’s even
-more fun than it sounds! You’ll in general be much better off if you find
-as much time as you can to write some code, so why not start now?
-
-Questions
 
 1. Write a program that calls fork(). Before calling fork(), have the
 main process access a variable (e.g., x) and set its value to some-
