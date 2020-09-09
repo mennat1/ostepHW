@@ -1,5 +1,5 @@
-#Chapter 6
-##Mechanism: Limited Direct Execution
+# Chapter 6
+## Mechanism: Limited Direct Execution
 
 **In this homework, you’ll measure the costs of a system call and context switch.** 
 
